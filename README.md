@@ -19,7 +19,7 @@ Ensure you have the following environment dependencies installed:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/elixir_jwt_auth_server.git
+   git clone https://github.com/v01dw4lk3r-1337/elixir_jwt_auth_server.git
    cd elixir_jwt_auth_server
    ```
 2. **Install Dependencies:**
